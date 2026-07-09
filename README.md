@@ -16,6 +16,4 @@ Full Stack Developer focused on building clean, user-centered digital experience
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=me-athxrva&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=me-athxrva&icon=1)](https://visitcount.itsvg.in)
